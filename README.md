@@ -1,5 +1,6 @@
 Discover Anthropic Sdk java </br>
-Learn LangChain4j - how to switch different LLM model </br>
+Learn LangChain4j - how to switch different LLM model between Gemini and Claude </br>
+Which version is Gemini and Claude </br>
 What is Agentuity ? What is its purpose ? </br>
 Get CodeRabbit </br>
 Create dev branch </br>
